@@ -1,0 +1,22 @@
+.login-page label{
+    font-weight: bold;
+}
+
+.ant-dropdown-menu-title-content {
+    width: 100%;
+}
+
+.dropdown-items {
+    padding: 4px;
+    width: 100%;
+}
+.modal-title .ant-modal-title{
+    text-align: center;
+    font-weight: bold;
+}
+.week-working .ant-table-tbody>tr>td{
+    position: relative;
+    padding: 4px 4px;
+    overflow-wrap: break-word;
+}
+

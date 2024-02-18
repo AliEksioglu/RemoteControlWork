@@ -1,0 +1,13 @@
+.login-bg-image{
+    background-image:  url(../images/loginBGImage.jpg);
+    background-size: cover;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+}
+.login-form-bg-image{
+    background-image: url(../images/loginFormImage.jpg);
+    background-size: cover;
+    justify-content: center;
+}
